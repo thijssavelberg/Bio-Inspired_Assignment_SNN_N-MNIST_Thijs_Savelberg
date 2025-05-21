@@ -1,0 +1,1 @@
+# Assignment_SNN_MNIST_Thijs_Savelberg

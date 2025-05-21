@@ -1,1 +1,1 @@
-# Assignment_SNN_MNIST_Thijs_Savelberg
+# Bio-Inspired_Assignment_SNN_N-MNIST_Thijs_Savelberg
